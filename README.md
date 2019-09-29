@@ -8,3 +8,5 @@
 - http://www.realtimerendering.com/intersections.html
 - https://tavianator.com/fast-branchless-raybounding-box-intersections/
 - http://www.realtimerendering.com/resources/GraphicsGems/
+- http://www.iquilezles.org/www/articles/intersectors/intersectors.htm
+
