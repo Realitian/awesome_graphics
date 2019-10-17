@@ -10,3 +10,8 @@
 - http://www.realtimerendering.com/resources/GraphicsGems/
 - http://www.iquilezles.org/www/articles/intersectors/intersectors.htm
 
+2. 3D Human Body
+
+- https://github.com/thmoa/tex2shape
+- https://github.com/facebookresearch/Densepose
+- https://github.com/thmoa/semantic_human_texture_stitching
